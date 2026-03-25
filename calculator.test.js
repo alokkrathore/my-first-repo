@@ -1,4 +1,4 @@
-echo 'const { add, multiply } = require("./calculator");
+const { add, multiply } = require("./calculator");
 
 console.log("Running tests...");
 
