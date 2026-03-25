@@ -16,4 +16,4 @@ if (multiply(2, 3) === 6) {
     process.exit(1);
 }
 
-console.log("🎉 All tests passed!");' > calculator.test.js
+console.log("🎉 All tests passed!");
